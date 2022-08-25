@@ -1,4 +1,4 @@
-### Olá, eu sou Melque Rodrigues, estudante de Sistemas da Informação >> UFRN/CAICÓ! 👋
+### Olá, eu sou Melque Rodrigues, estudante de Sistemas da Informação > UFRN/CAICÓ! 👋
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
