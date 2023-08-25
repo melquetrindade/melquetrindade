@@ -1,4 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
+
 ### Olá, eu sou Melque Rodrigues, estudante de Sistemas de Informação > UFRN/CAICÓ! 👋
+
+<img align="center" alt="meugif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif" width="375" height="200"/>  
+
+
+
+<!---<img aling="right" height="200px" alt="meuGif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif"/>--->
 
 <div style="display: inline_block"><br/>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
