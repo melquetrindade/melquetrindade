@@ -2,15 +2,18 @@
 
 ### Olá, eu sou Melque Rodrigues, estudante de Sistemas de Informação > UFRN/CAICÓ! 👋
 
+
 <img align="center" alt="meugif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif" width="375" height="200"/>  
 
 
 
 <!---<img aling="right" height="200px" alt="meuGif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif"/>--->
 
-<div>
+<div aling="right">
   <hr>
-  Technologies Studied:
+  <h1 aling="right">
+    Technologies Studied: 
+  </h1>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
