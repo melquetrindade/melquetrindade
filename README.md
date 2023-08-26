@@ -8,7 +8,9 @@
 
 <!---<img aling="right" height="200px" alt="meuGif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif"/>--->
 
-<div style="display: inline_block"><br/>
+<div>
+  <hr>
+  Technologies Studied:
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,7 +19,8 @@
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- </div> <br>
+  <hr>
+ </div>
 
 <div aling="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=melquetrindade&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Erick Bezerra github stats" /> 
