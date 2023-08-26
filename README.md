@@ -1,8 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-### Olá, eu sou Melque Rodrigues, estudante de Sistemas de Informação > UFRN/CAICÓ! 👋
+### Hi, i'm Melque Rodrigues, Information Systems student > UFRN/CAICÓ! 👋
 
-<img align="center" alt="meugif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif" width="375" height="200"/>  
+<hr>
+<p align= "center">
+  
+ <a href= "#" target="_blank">
+  <img src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif">
+ </a>
+ 
+</p>
+<hr>
+
+<!---<img alt="meugif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif" width="375" height="200"/>---> 
 
 <!---<img aling="right" height="200px" alt="meuGif" src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif"/>--->
 
@@ -67,3 +77,5 @@
 </p>
 
 <!---![Snake animation](https://github.com/melquetrindade/melquetrindade/blob/output/github-contribution-grid-snake.svg)--->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
