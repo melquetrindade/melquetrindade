@@ -65,7 +65,5 @@
  </a>
  
 </p>
-<!---![Snake animation](https://github.com/melquetrindade/melquetrindade/blob/output/github-contribution-grid-snake.svg)--->
-<!---![Snake animation](https://github.com/melquetrindade/melquetrindade/blob/output/github-contribution-grid-snake.svg)--->
 
-![Snake animation](https://github.com/melquetrindade/melquetrindade/blob/output/github-contribution-grid-snake.svg)
+<!---![Snake animation](https://github.com/melquetrindade/melquetrindade/blob/output/github-contribution-grid-snake.svg)--->
