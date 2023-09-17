@@ -46,11 +46,15 @@
     <img height= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   <a href= "#" target="_blank">
+    <img height= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
+  </a>
+  <a href= "#" target="_blank">
     <img height= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   </a>
   <a href= "#" target="_blank">
     <img height= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   </a>
+  
  
 </p>
 
