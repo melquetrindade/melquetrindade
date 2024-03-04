@@ -54,6 +54,9 @@
   <a href= "#" target="_blank">
     <img height= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   </a>
+  <a href= "#" target="_blank">
+    <img height= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  </a>
   
  
 </p>
